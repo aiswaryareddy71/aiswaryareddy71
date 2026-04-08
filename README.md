@@ -1,7 +1,5 @@
 <div align="center">
-
-    <img src="https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg" alt="Support Palestine" style="width: 100%;">
-  
+  <img src="https://cdn.vectorstock.com/i/preview-1x/14/95/banner-software-ui-and-development-for-different-vector-37731495.jpg" alt="Banner" style="width: 100%;">
 </div>
 
 <h1 align="center">
