@@ -12,15 +12,15 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdellatif-laghjaj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/abdellatif-laghjaj?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://komarev.com/ghpvc/?username=aiswaryareddy71&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/aiswaryareddy71?label=Followers&style=social" alt="GitHub Badge">
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://github.com/aiswaryareddy71">
+<img align="right" alt="Coding" width="400" src="https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/assets/79521157/6c52e39f-87eb-4819-9002-6d5156389049">
 
 **What drives me:**
 
